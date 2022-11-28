@@ -1,8 +1,8 @@
-Hi there. 
+Hi there, 
 
-From now on I will not publish any further works on GitHub and will delete the existing ones: being sold inside a Frankensteinian output of some obsure NN was never my plan. If anything of it was valuable for you (I doubt that honestly), please, check the repo with the same name on my codeberg account: I've moved some of my stuff there. I still plan to use this account as a regular proprietary social network page: to communicate with the people trapped inside. 
+This account is primary for some "social" activity: issues, pull requests etc. If you came here looking for a repo that used to be there, but now isn't, check my [codeberg account](https://codeberg.org/vleugelcomplement) or email me directly: having bits of myself sold inside a Frankensteinian product of some obsure copyrights-violating NN was never my plan.
 
-It is obviosly a sad state of affairs; but, well, thanks for the ride, octocat. 
+It is obviosly a sad state of affairs; but, well, thanks for the ride, octocat; that one that used to be less ghosty. 
 
 <!---
 taxus-d/taxus-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
